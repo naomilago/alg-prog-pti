@@ -1,0 +1,12 @@
+{
+  "name": "alg-prog-pti",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/naomilago/alg-prog-pti.git",
+  "author": "Naomi Lago <naomilago6@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
